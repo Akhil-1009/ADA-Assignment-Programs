@@ -1,6 +1,6 @@
 # ADA-Assignment-Programs
 This repo contains all the programs which i have done as a part of ADA assignment
-# First unit  Introduction to Algorithms:
+# Unit-1:  Introduction to Algorithms:
 1. Implement a binary search algorithm for an array of integers.
 2. Implement a selection sort algorithm for an array of integers.
 3. Implement an insertion sort algorithm for an array of integers.
@@ -9,7 +9,7 @@ This repo contains all the programs which i have done as a part of ADA assignmen
 6. Implement a linear search algorithm for an array of integers.
 7. Implement a hash table data structure using separate chaining collision resolution
 8.  Implement a hash table data structure using linear probing collision resolution.
-# second unit Divide and Conquer:
+#  Unit-2: Divide and Conquer:
 1. Implement a recursive algorithm for computing the factorial of a given positive integer using divide-and-conquer.
 2. Implement a recursive algorithm for computing the Fibonacci sequence using divide-and-conquer.
 3. Implement a recursive algorithm for computing the greatest common divisor of two integers using divide-and-conquer.
